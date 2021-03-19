@@ -2,6 +2,8 @@
 
 ## sub
 
+tämä tehtiin lokaalisti
+
 Tavallista tekstiä
 
 Tämä muutettiin Pullin jälkeen

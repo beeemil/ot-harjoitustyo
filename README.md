@@ -1,17 +1,17 @@
-# First task of OHTE
+# Ohjelmistotekniikka 2021
 
-## sub
+## Viikkokohtaiset tehtävät
 
-tämä tehtiin lokaalisti
+### Viikko 1:
 
-Tavallista tekstiä
+* [gitlog.txt](https://github.com/beeemil/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+* [komentorivi.txt](https://github.com/beeemil/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-Tämä muutettiin Pullin jälkeen
+### Viikko 2:
+* [Maksukortti](https://github.com/beeemil/ot-harjoitustyo/tree/master/laskarit/viikko2/maksukortti)
+* [Unicafe](https://github.com/beeemil/ot-harjoitustyo/tree/master/laskarit/viikko2/unicafe)
+* Testikattavuus: 
+<img src="https://github.com/beeemil/ot-harjoitustyo/blob/master/laskarit/viikko2/testikattavuus.PNG" width=500>
 
-*Kursivoitua tekstiä*
-
-**Boldattua tekstiä**
-
-[gitlog.txt](https://github.com/beeemil/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
-
-[komentorivi.txt](https://github.com/beeemil/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+## Dokumentaatio
+[Määrittelydokumentaatio](https://github.com/beeemil/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)

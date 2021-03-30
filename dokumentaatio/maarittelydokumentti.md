@@ -5,6 +5,7 @@
  * Ohjelma tulee laajalti hyödyntämään pycrown -kirjastoa.
 ## Käyttöliittymäluonnos
 <img src="https://i.imgur.com/Jw6kMRc.png">
+
 Sovelluksessa mahdollisesti myös lokisivu prosessista
 ## Perusversio
  * Luoda shapefile -muotoinen latvusaineisto pistepilviaineistosta (.las/.laz), jossa yksittäisen puun latvus rajautuu polygoniin.

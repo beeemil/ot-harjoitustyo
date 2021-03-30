@@ -13,3 +13,4 @@ Sovelluksessa mahdollisesti myös lokisivu prosessista
  * Riippuen valmiiden koodikirjastojen saatavuudesta tuottaa mahdollisesti myös latvuskorkeusaineiston (CHM) ja maastokorkeusaineiston (DEM).
  * "Plottaa" valmis latvusaineisto käyttöliittymässä, jotta käyttäjä voi nopeasti tulkita tuloksia ja päättää, haluaako hän mahdollisesti ajaa prosessin uudestaan eri parametrein.
 ## Jatkokehitysideoita
+ * Ensin perusversio toimimaan

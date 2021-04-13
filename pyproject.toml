@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ot-harjoitustyo"
+version = "0.1.0"
+description = "Python app for delineating individual tree tops"
+authors = ["beeemil <eemil.becker@helsinki.fi>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.2.3"
+numpy = "^1.20.2"
+invoke = "^1.5.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -20,3 +20,4 @@
 * [sekvenssikaavio2](https://github.com/beeemil/ot-harjoitustyo/blob/master/laskarit/viikko3/sekvenssikaavio2.PNG)
 ## Dokumentaatio
 [Määrittelydokumentaatio](https://github.com/beeemil/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
+[Tuntikirjanpito](https://github.com/beeemil/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
